@@ -1,0 +1,83 @@
+{
+  "@@locale": "en",
+  "privatusaiTitle": "PrivatusAI",
+  "welcomeMessage": "Welcome to PrivatusAI, your confidential and open-source AI assistant.\n\n**Latest Updates:**\n- New user interface for a better experience.\n- Ability to customize theme colors.\n- Support for integrating your own AI API key.\n- Improved conversation management (move, delete, rename).\n\nStart a new conversation or pick up where you left off!",
+  "goToConversationsButton": "Go to Conversations",
+  "startNewConversationButton": "Start a New Conversation",
+  "aiApiKeyNotSet": "Please set your AI API key in settings.",
+  "aiErrorPrefix": "PrivatusAI: Error",
+  "newConversationTitle": "New Conversation",
+  "renameConversationTitle": "Rename Conversation",
+  "newTitleLabel": "New Title",
+  "cancelButton": "Cancel",
+  "renameButton": "Rename",
+  "deleteConversationTitle": "Delete Conversation?",
+  "deleteConversationConfirm": "Are you sure you want to delete \"{conversationTitle}\"?",
+  "@deleteConversationConfirm": {
+    "placeholders": {
+      "conversationTitle": {}
+    }
+  },
+  "deleteButton": "Delete",
+  "messageCopied": "Message copied!",
+  "copyMessageTooltip": "Copy message",
+  "selectPromptTooltip": "Select a prompt",
+  "sendMessageHint": "Send a message...",
+  "conversationsTitle": "Conversations",
+  "newConversationButton": "New Conversation",
+  "managePromptsTitle": "Manage Prompts",
+  "editPromptTitle": "Edit Prompt",
+  "promptContentLabel": "Prompt content",
+  "saveButton": "Save",
+  "addNewPromptTitle": "Add New Prompt",
+  "addButton": "Add",
+  "addNewPromptButton": "Add New Prompt",
+  "startChattingPrompt": "Start chatting with PrivatusAI!",
+  "homeButtonTooltip": "Go to Home",
+  "menuButtonTooltip": "Open conversations",
+  "switchToLightModeTooltip": "Switch to Light Mode",
+  "switchToDarkModeTooltip": "Switch to Dark Mode",
+  "settingsButtonTooltip": "Settings",
+  "settingsTitle": "Settings",
+  "aiServiceLabel": "AI Service",
+  "aiModelLabel": "AI Model",
+  "aiApiKeyLabel": "AI API Key",
+  "aiApiKeyHint": "Enter your API key here",
+  "lightModeColorsTitle": "Light Mode Colors",
+  "primaryColorButton": "Primary",
+  "accentColorButton": "Accent",
+  "darkModeColorsTitle": "Dark Mode Colors",
+  "languageLabel": "Language",
+  "showLicenseButton": "Show License",
+  "deleteAllConversationsTitle": "Delete All Conversations?",
+  "deleteAllConversationsConfirm": "Are you sure you want to delete all your conversations? This action is irreversible.",
+  "deleteAllButton": "Delete All",
+  "deleteAllConversationsButton": "Delete All Conversations",
+  "allConversationsDeleted": "All conversations deleted.",
+  "applicationLicenseTitle": "Application License",
+  "closeButton": "Close",
+  "chooseColorTitle": "Choose a color",
+  "selectButton": "Select",
+  "failedToLoadLicense": "Failed to load license: {error}",
+  "@failedToLoadLicense": {
+    "placeholders": {
+      "error": {}
+    }
+  },
+  "errorLoadingLicense": "Error loading license",
+  "apiKeyNotSetError": "API Key not set. Please go to settings to set your AI API key.",
+  "unsupportedAIServiceType": "Unsupported AI service type: {serviceType}",
+  "@unsupportedAIServiceType": {
+    "placeholders": {
+      "serviceType": {}
+    }
+  },
+  "geminiResponseNotFound": "Gemini response content not found or empty.",
+  "noContentFound": "No content found for this AI service type.",
+  "failedToLoadAIResponse": "Failed to load AI response",
+  "errorCommunicatingWithAI": "Error communicating with AI",
+  "openAISystemPrompt": "You are PrivatusAI, an assistant developed by PrivatusAI. Never say you were created by Google or any similar entity. Always respond as PrivatusAI.",
+  "openAIAssistantResponse": "Of course, I am PrivatusAI, developed by PrivatusAI. How can I assist you?",
+  "geminiSystemPrompt": "You are PrivatusAI, an assistant developed by PrivatusAI. Never say you were created by Google or any similar entity. Always respond as PrivatusAI.",
+  "geminiAssistantResponse": "Of course, I am PrivatusAI, developed by PrivatusAI. How can I assist you?"
+}

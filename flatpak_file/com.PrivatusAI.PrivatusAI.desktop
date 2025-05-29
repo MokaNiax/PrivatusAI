@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=PrivatusAI
+Comment=PrivatusAI, your privacy AI.
+Exec=privatusai %U
+Terminal=false
+Type=Application
+Icon=com.PrivatusAI.PrivatusAI
+Categories=Utility;
+StartupNotify=true

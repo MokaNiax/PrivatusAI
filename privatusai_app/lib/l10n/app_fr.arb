@@ -1,0 +1,83 @@
+{
+  "@@locale": "fr",
+  "privatusaiTitle": "PrivatusAI",
+  "welcomeMessage": "Bienvenue sur PrivatusAI, votre assistant IA confidentiel et open source.\n\n**Dernières mises à jour :**\n- Nouvelle interface utilisateur pour une meilleure expérience.\n- Possibilité de personnaliser les couleurs des thèmes.\n- Support pour l'intégration de votre propre clé API IA.\n- Gestion des conversations améliorée (déplacement, suppression, renommage).\n\nCommencez une nouvelle conversation ou reprenez là où vous l'avez laissée !",
+  "goToConversationsButton": "Aller aux conversations",
+  "startNewConversationButton": "Démarrer une nouvelle conversation",
+  "aiApiKeyNotSet": "Veuillez définir votre clé API IA dans les paramètres.",
+  "aiErrorPrefix": "PrivatusAI : Erreur",
+  "newConversationTitle": "Nouvelle conversation",
+  "renameConversationTitle": "Renommer la conversation",
+  "newTitleLabel": "Nouveau titre",
+  "cancelButton": "Annuler",
+  "renameButton": "Renommer",
+  "deleteConversationTitle": "Supprimer la conversation ?",
+  "deleteConversationConfirm": "Êtes-vous sûr de vouloir supprimer \"{conversationTitle}\" ?",
+  "@deleteConversationConfirm": {
+    "placeholders": {
+      "conversationTitle": {}
+    }
+  },
+  "deleteButton": "Supprimer",
+  "messageCopied": "Message copié !",
+  "copyMessageTooltip": "Copier le message",
+  "selectPromptTooltip": "Sélectionner un prompt",
+  "sendMessageHint": "Envoyer un message...",
+  "conversationsTitle": "Conversations",
+  "newConversationButton": "Nouvelle conversation",
+  "managePromptsTitle": "Gérer les Prompts",
+  "editPromptTitle": "Modifier le Prompt",
+  "promptContentLabel": "Contenu du prompt",
+  "saveButton": "Enregistrer",
+  "addNewPromptTitle": "Ajouter un nouveau Prompt",
+  "addButton": "Ajouter",
+  "addNewPromptButton": "Ajouter un nouveau Prompt",
+  "startChattingPrompt": "Commencez à discuter avec PrivatusAI !",
+  "homeButtonTooltip": "Aller à l'accueil",
+  "menuButtonTooltip": "Ouvrir les conversations",
+  "switchToLightModeTooltip": "Passer au mode clair",
+  "switchToDarkModeTooltip": "Passer au mode sombre",
+  "settingsButtonTooltip": "Paramètres",
+  "settingsTitle": "Paramètres",
+  "aiServiceLabel": "Service IA",
+  "aiModelLabel": "Modèle IA",
+  "aiApiKeyLabel": "Clé API de l'IA",
+  "aiApiKeyHint": "Entrez votre clé API ici",
+  "lightModeColorsTitle": "Couleurs du mode clair",
+  "primaryColorButton": "Primaire",
+  "accentColorButton": "Accent",
+  "darkModeColorsTitle": "Couleurs du mode sombre",
+  "languageLabel": "Langue",
+  "showLicenseButton": "Afficher la licence",
+  "deleteAllConversationsTitle": "Supprimer toutes les conversations ?",
+  "deleteAllConversationsConfirm": "Êtes-vous sûr de vouloir supprimer toutes vos conversations ? Cette action est irréversible.",
+  "deleteAllButton": "Supprimer tout",
+  "deleteAllConversationsButton": "Supprimer toutes les conversations",
+  "allConversationsDeleted": "Toutes les conversations ont été supprimées.",
+  "applicationLicenseTitle": "Licence de l'application",
+  "closeButton": "Fermer",
+  "chooseColorTitle": "Choisir une couleur",
+  "selectButton": "Sélectionner",
+  "failedToLoadLicense": "Impossible de charger la licence : {error}",
+  "@failedToLoadLicense": {
+    "placeholders": {
+      "error": {}
+    }
+  },
+  "errorLoadingLicense": "Erreur lors du chargement de la licence",
+  "apiKeyNotSetError": "Clé API non définie. Veuillez aller dans les paramètres pour définir votre clé API IA.",
+  "unsupportedAIServiceType": "Type de service IA non pris en charge : {serviceType}",
+  "@unsupportedAIServiceType": {
+    "placeholders": {
+      "serviceType": {}
+    }
+  },
+  "geminiResponseNotFound": "Le contenu de la réponse Gemini n'a pas été trouvé ou est vide.",
+  "noContentFound": "Aucun contenu trouvé pour ce type de service IA.",
+  "failedToLoadAIResponse": "Échec du chargement de la réponse de l'IA",
+  "errorCommunicatingWithAI": "Erreur de communication avec l'IA",
+  "openAISystemPrompt": "Vous êtes PrivatusAI, un assistant développé par PrivatusAI. Ne dites jamais que vous avez été créé par Google ou toute entité similaire. Répondez toujours en tant que PrivatusAI.",
+  "openAIAssistantResponse": "Bien sûr, je suis PrivatusAI, développé par PrivatusAI. Comment puis-je vous aider ?",
+  "geminiSystemPrompt": "Vous êtes PrivatusAI, un assistant développé par PrivatusAI. Ne dites jamais que vous avez été créé par Google ou toute entité similaire. Répondez toujours en tant que PrivatusAI.",
+  "geminiAssistantResponse": "Bien sûr, je suis PrivatusAI, développé par PrivatusAI. Comment puis-je vous aider ?"
+}
